@@ -1,0 +1,90 @@
+* {
+
+}
+body {
+	width: 90%;
+	margin: 3em;
+	position: fixed;
+}
+label {
+	display: inline-block;
+}
+div {
+	padding: 5px;
+}
+li {
+	list-style: none;
+	display: inline;
+}
+div.one {
+	background-color:#FFB4B0;
+	width: auto;
+	border: 2px solid black;
+	margin: 10px;
+}
+div.two {
+	background-color:#4DD7FA;
+	width:17%;
+	display: inline-grid;
+	border: 2px solid black;
+	margin: 10px;
+	height: 500px;
+	float: left;
+	position: relative;
+
+}
+div.three {
+	background-color:#FEFAC0;
+	width: 69%;
+	display: inline-block;
+	border: 2px solid black;
+	margin: 10px;
+	text-align: left;
+	height:500px;
+	font-size: 1em;
+	float: left;
+	position: fixed;
+
+}
+div.ones {
+	
+}
+div.twos {
+	margin: 12px;
+	text-align: center;
+}
+div.threes {
+	
+}
+label.threes {
+	font-size: 2.3em;
+	color:#785616;
+}
+label.twos {
+	font-size: 1.5em;
+}
+div.twosAndThrees {
+	width: auto;
+}
+li.threesh: {
+	display: inline;
+}
+table {
+	display: block;
+	padding-top: 1em;
+	padding-bottom: 2em;
+	text-align: justify;
+}
+.filter {
+	background-color: lightgray;
+	font-size: 1.3em;
+	border: 2px solid black;
+	text-align: left;
+}
+.selectbar {
+	width: 90%;
+	border: 1px solid black;
+}
+.rangebar {
+	position: relative;
+}
